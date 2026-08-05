@@ -5,3 +5,5 @@ The repository contains the scripts for analysis of soil metagenomes from a poll
 
 Title:
 **Genome-resolved metagenomics reveals the potential for selection for antibiotic resistance due to metal pollution in soil microbial communities near a copper-nickel mine site in Botswana**
+
+The following files contain the scripts related to the analysis for the samples please check the Bioproject PRJNA1332977 in the Sequence Read Archive
